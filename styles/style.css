@@ -1,0 +1,13 @@
+vcf-autosuggest-overlay [part='options-container'] {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    min-width: var(--vcf-autosuggest-options-width);
+}
+
+vcf-autosuggest-overlay [part="options-container"] vaadin-item::before {
+    content: none;
+}
+
+vcf-autosuggest-overlay [part="dropdown-end-slot"] {
+    border-top: 1px solid var(--lumo-contrast-40pct);
+}
