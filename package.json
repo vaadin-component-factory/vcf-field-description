@@ -7,7 +7,7 @@
   },
   "author": "Vaadin Ltd",
   "main": "theme/lumo/vcf-field-description.js",
-  "description": "Web Component with a text input that provides a panel of suggested options.",
+  "description": "Web Component to be used as a component helper for displaying feedback.",
   "keywords": [
     "Vaadin",
     "vaadin-incubator-element",

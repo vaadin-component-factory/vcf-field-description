@@ -1,4 +1,4 @@
-# &lt;vcf-autosuggest&gt;
+# &lt;vcf-field-description&gt;
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vaadin/web-components?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![npm version](https://badgen.net/npm/v/@vaadin-component-factory/vcf-field-description)](https://www.npmjs.com/package/@vaadin-component-factory/vcf-field-description)
@@ -24,20 +24,7 @@ Once installed, import it in your application:
 import '@vaadin-component-factory/vcf-field-description';
 ```
 
-Add `<vcf-field-description>` to the page. In attribute `options` you should declare options that will be offered for user to select. All change listener to the element in which you will update `options` appribute.
-
-```html
-<vcf-field-description id="TODO!!!!!">
-</vcf-field-description>
-```
-
-## Running demo
-
-1. Fork the `vcf-field-description` repository and clone it locally.
-
-1. Make sure you have [npm](https://www.npmjs.com/) installed.
-
-1. When in the `vcf-field-description` directory, run `npm install` to install dependencies.
+Add `<vcf-field-description>` to the page. 
 
 ## Contributing
 
