@@ -1,9 +1,10 @@
 {
-  "name": "@lit/lit-starter-ts",
-  "private": true,
+  "name": "@vaadin-component-factory/vcf-field-description",
   "version": "0.0.4",
-  "module": "my-element.js",
-  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaadin-component-factory/vcf-field-description.git"
+  },
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch",
