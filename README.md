@@ -4,7 +4,7 @@
 [![npm version](https://badgen.net/npm/v/@vaadin-component-factory/vcf-field-description)](https://www.npmjs.com/package/@vaadin-component-factory/vcf-field-description)
 [![Published on Vaadin Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/vaadin-component-factoryvcf-field-description)
 
-This is the npm version [vcf-field-description](https://github.com/vaadin-component-factory/vcf-field-description) developed using Polymer 3.
+This is the npm version [vcf-field-description](https://github.com/vaadin-component-factory/vcf-field-description) developed using LitElement.
 
 ![screenshot](https://user-images.githubusercontent.com/3392815/not-available1234.gif)
 
