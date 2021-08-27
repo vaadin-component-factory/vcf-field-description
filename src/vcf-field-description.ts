@@ -1,8 +1,6 @@
 import { LitElement, html, customElement, property } from 'lit-element';
 import {unsafeHTML} from 'lit-html/directives/unsafe-html.js';
 
-//TODO: Feedbackstate is never null!
-
 @customElement('vcf-field-description')
 export class VcfFieldDescription extends LitElement {
     // --- --- --- Properties --- --- ---
@@ -29,7 +27,7 @@ export class VcfFieldDescription extends LitElement {
     feedbackState: String = 'INFO';
 
     @property({type: String})
-    feedbackContent = null;
+    feedbackContent = "";
 
     @property({type: Boolean})
     reserveDescriptionHeight = false;

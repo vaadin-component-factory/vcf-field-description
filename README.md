@@ -8,6 +8,14 @@ This is the npm version [vcf-field-description](https://github.com/vaadin-compon
 
 ![screenshot](https://user-images.githubusercontent.com/3392815/not-available1234.gif)
 
+## Build
+
+```sh
+npm install
+npm run build
+```
+
+
 ## Installation
 
 Install `vcf-field-description`:
