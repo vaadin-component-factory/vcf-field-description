@@ -1,7 +1,7 @@
 {
   "name": "@lit/lit-starter-ts",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.4",
   "module": "my-element.js",
   "type": "module",
   "scripts": {
