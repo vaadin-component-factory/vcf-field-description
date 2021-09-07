@@ -6,7 +6,7 @@
 
 This is the npm version [vcf-field-description](https://github.com/vaadin-component-factory/vcf-field-description) developed using LitElement.
 
-![screenshot](https://user-images.githubusercontent.com/3392815/not-available1234.gif)
+![screenshot](https://github.com/vaadin-component-factory/vcf-field-description/blob/main/.github/images/screenshot1.png)
 
 ## Build
 
